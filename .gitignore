@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/*.csv
 *.keras
+data/processed/*.npz
 .env
