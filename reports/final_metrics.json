@@ -1,0 +1,11 @@
+{
+  "threshold": 0.6044411063194275,
+  "accuracy": 0.9489831882423431,
+  "fraud_precision": 0.026066350710900472,
+  "fraud_recall": 0.8105263157894737,
+  "fraud_f1": 0.050508363397835356,
+  "true_positives": 77,
+  "false_negatives": 18,
+  "false_positives": 2877,
+  "true_negatives": 53774
+}

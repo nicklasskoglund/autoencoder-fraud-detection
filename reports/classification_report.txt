@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     Legitim     0.9997    0.9492    0.9738     56651
+   Bedrägeri     0.0261    0.8105    0.0505        95
+
+    accuracy                         0.9490     56746
+   macro avg     0.5129    0.8799    0.5121     56746
+weighted avg     0.9980    0.9490    0.9722     56746
